@@ -1,0 +1,4 @@
+{
+    "connectionString": "mongodb+srv://admin:XtrDz3lABsJvmQia@cluster0-5b71s.mongodb.net/db_grammer",
+    "secret": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
+}
